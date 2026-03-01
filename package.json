@@ -1,12 +1,14 @@
 {
-  "name": "web-app",
+  "name": "void!gateway",
   "version": "1.0.0",
+  "description": "vo!d ! gateway",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^3.2.5",
+    "@mercuryworkshop/scramjet": "latest",
     "express": "^4.18.2"
   }
 }
